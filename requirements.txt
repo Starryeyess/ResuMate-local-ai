@@ -4,3 +4,4 @@ python-docx
 plotly
 pandas
 scikit-learn
+nltk
